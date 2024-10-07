@@ -46,7 +46,7 @@ int vector_sum(unsigned char * A_ar, int size){
 
 int main()
 {
-	printf("This example program computes the sum of %d integer numbers!\n", N);
+	printf("\n\nThis example program computes the sum of %d integer numbers!\n", N);
 
 	// initialize the array and get the expected result
 	int expected_result = init_array(array_1, N);
@@ -59,7 +59,7 @@ int main()
 
 	// check if the results is correct
     if (computed_result == expected_result)
-    	printf("Result is correct. Got %d\n", computed_result);
+    	printf("Result is correct. Got %d\n\n", computed_result);
     else
-    	printf("Result is not correct. Got %d instead of %d\n", computed_result, expected_result);
+    	printf("Result is not correct. Got %d instead of %d\n\n", computed_result, expected_result);
 }
