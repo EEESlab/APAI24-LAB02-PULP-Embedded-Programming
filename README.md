@@ -23,7 +23,7 @@ ___
 
 ### How to set the environment
 
-1. Open the VMWare virtual machine called xxx
+1. Open the VirtualBox virtual machine
 2. Open a terminal (CTRL+T or open terminal)
 3. Launch the commands (clone repo, move into folder, open Visual Studio Code):
 ```
