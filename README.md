@@ -1,5 +1,10 @@
 # APAI-LAB03: Basics of Embedded Programming on PULP
 
+## Material
+
+Assignment: [here](docs/assignment.pdf)
+Sldes: [here](docs/slides.pdf)
+
 ## Summary:
 The target device for the lab sessions is the multi-core [PULP](https://github.com/pulp-platform/pulp) platform.
 The PULP Virtual Platform simulator GVSOC, which is included within the [PULP SDK](https://github.com/pulp-platform/pulp-sdk), will be used during the class.
